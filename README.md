@@ -5,3 +5,6 @@ I have made the design in to a PCB project with gerber files and a bill of mater
 Please do not sell these for profit.
 Contact me if you would like me to lead a workshop.
 If you host your own workshop please credit me, Phil Baljeu. IG @pbalpbal [http:](https://www.instagram.com/pbalpbal/)https://www.instagram.com/pbalpbal/
+
+#DPX
+This fork includes a new panel + aims to add additional refinements towards using the device directly with ILDA lasers
